@@ -1,0 +1,22 @@
+.wrapper-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ul{
+    height: 10vh;
+    width:40vw;
+    padding: 10px;
+    border: 2px solid rgb(105, 65, 227);
+    border-radius: 8px;
+    background-color: white;
+    gap: 5px;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+
+}
+li{
+    list-style: none;
+}
